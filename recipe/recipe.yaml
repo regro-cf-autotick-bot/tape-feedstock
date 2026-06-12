@@ -1,5 +1,5 @@
 context:
-  version: "5.9.0"
+  version: "5.10.1"
 
 package:
   name: tape
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/tape/-/tape-${{ version }}.tgz
-  sha256: ffbbd1d254d54a829a69b709a83f3a6061f455044fce2a1ee22bc8f2f5918f28
+  sha256: 0f497bfafbe3e6d9626c52f448a28c59c8d376b46c2574741f9a03580b7b4b62
 
 build:
   number: 0
